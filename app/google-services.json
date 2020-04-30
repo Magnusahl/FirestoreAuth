@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51387980556",
+    "firebase_url": "https://firestoreauth-75800.firebaseio.com",
+    "project_id": "firestoreauth-75800",
+    "storage_bucket": "firestoreauth-75800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51387980556:android:365288669f0af1b8d3c729",
+        "android_client_info": {
+          "package_name": "com.example.firestoreauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51387980556-vek6l50mdajch36omsfcocc20obussnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApNDTfR0XE9bSPz2S3SWiuNewBKz_sAnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51387980556-vek6l50mdajch36omsfcocc20obussnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
